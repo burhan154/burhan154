@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋 👋</h1>
 <h3 align="center">I'm Burhan Başaran, I am a student at Sakarya University.</h3>
 
 - 🌱 I’m currently learning **.Net and React**
